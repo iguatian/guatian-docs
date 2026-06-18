@@ -1,0 +1,9 @@
+{
+  "label": "FAQ",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "slug": "FAQ",
+    "description": "FAQ 相关文档"
+  }
+}
